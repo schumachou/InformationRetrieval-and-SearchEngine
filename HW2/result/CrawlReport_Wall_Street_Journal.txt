@@ -1,0 +1,39 @@
+Name: Cheng-I Chou
+UCS ID: 7765631809
+News site crawled: wsj.com
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 18325
+# fetches failed or aborted :1675
+
+Outgoing URLs:
+================
+Total URLs extracted: 1355876
+# unique URLs extracted: 117934
+# unique URLs within News Site :69882
+# unique URLs outside News Site :48052
+
+Status Codes:
+================
+400 null: 1
+404 Not Found: 38
+200 OK: 18325
+301 Moved Permanently: 1600
+302 Found: 36
+
+File Sizes: 
+================
+< 1KB: 20
+1KB ~ <10KB: 1050
+10KB ~ <100KB :2592
+100KB ~ <1MB: 14393
+>= 1MB :255
+
+Content Types:
+================
+image/png: 42
+text/html: 16708
+image/jpeg: 1519
+image/gif: 41

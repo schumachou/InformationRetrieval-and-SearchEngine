@@ -1,7 +1,7 @@
 # Information Retrieval and Search Engine
 ## HW2
-Built a crawler upon open sourcea crawler4j library crawling on 20,000 webpages from Wall Street Journal and generate the statistics of crawled files.
-* Limited the crawler to only visit HTML, doc, pdf and different image format URLs and record the meta data for those file types
+Built a crawler upon open sourcea crawler4j library crawling on 20,000 webpages from Wall Street Journal and generated the statistics of crawled files.
+* Limited the crawler to only visit HTML, doc, pdf and different image format URLs and recorded the meta data for those file types
 ## HW3
 Created Inverted-Index using Hadoop on Google Cloud Platform.
 * Wrote a Map-Reduce job in java to create an Inverted-Index of words occurring in a collection of 3,036 English books

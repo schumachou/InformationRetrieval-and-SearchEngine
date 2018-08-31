@@ -6,7 +6,7 @@ Built a crawler upon open sourcea crawler4j library crawling on 20,000 webpages 
 Created Inverted-Index using Hadoop on Google Cloud Platform.
 * Wrote a Map-Reduce job in java to create an Inverted-Index of words occurring in a collection of 3,036 English books
 ## HW4
-Wrote a PHP program to request search result from solr add compared different ranking algorithm.
+Wrote a PHP program to request search result from solr and compared different ranking algorithm.
 * Indexed the crawled files fetched in HW2 in Apache Solr
 * Inplemented PageRank algorithms as another ranking algorithm using NetworkX library and compared the search results with default tf-idf ranking algorithm.
 ## HW5
